@@ -5,5 +5,9 @@
 }
 
 ::selection {
-  color: #fafaf28f;
+  color: #231094;
+}
+
+::-webkit-scrollbar{
+  overflow-x: hidden;
 }
